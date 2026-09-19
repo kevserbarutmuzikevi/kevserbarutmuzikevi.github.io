@@ -1,0 +1,23 @@
+[
+  { "type": "image", "src": "media/photos/salon.webp", "alt": "Kevser Barut Müzik Evi salonu: duvarda el yazısı logo, piyano ve renkli halı", "caption": "Salonumuz", "width": 1200, "height": 1600 },
+  { "type": "image", "src": "media/photos/piyano-odasi.webp", "alt": "Sıcak spot ışıklarıyla aydınlatılmış piyano odası; siyah dijital piyano, tabure ve renkli halı", "caption": "Piyano odamız", "width": 1080, "height": 1070 },
+  { "type": "image", "src": "media/photos/klasik-gitar.webp", "alt": "Piyanonun önünde sehpasında duran açık renk klasik gitar", "caption": "Klasik gitar", "width": 1080, "height": 1429 },
+  { "type": "image", "src": "media/photos/ukuleleler.webp", "alt": "Duvara yaslanmış kahverengi, pembe ve mor ukuleleler", "caption": "Ukulelelerimiz", "width": 1080, "height": 1326 },
+  { "type": "image", "src": "media/photos/siyah-gitar.webp", "alt": "Piyano taburesine yaslanmış siyah klasik gitar", "caption": "Gitar köşesi", "width": 1080, "height": 1402 },
+
+  {
+    "type": "youtube",
+    "id": "VIDEO_KIMLIGI",
+    "title": "ÖRNEK — YouTube videosu: id alanına 11 karakterlik video kimliğini yazıp bu enabled satırını silin",
+    "poster": "media/photos/piyano-odasi.webp",
+    "featured": true,
+    "enabled": false
+  },
+  {
+    "type": "video",
+    "src": "media/videos/tanitim.mp4",
+    "poster": "media/photos/piyano-odasi.webp",
+    "title": "ÖRNEK — kendi videonuz: dosyayı media/videos/ içine koyup bu enabled satırını silin",
+    "enabled": false
+  }
+]

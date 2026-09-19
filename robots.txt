@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /tesekkurler.html
+Sitemap: https://kevserbarutmuzikevi.github.io/sitemap.xml
